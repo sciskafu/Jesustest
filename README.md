@@ -1,2 +1,3 @@
-# Jesustest
-first repo that is a test
+# Jstest
+---
+I will delete this repo later (｡・//ε//・｡)
